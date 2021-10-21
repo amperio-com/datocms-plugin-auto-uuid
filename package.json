@@ -1,7 +1,7 @@
 {
-  "name": "datocms-plugin-auto-uuid",
+  "name": "@amperio/datocms-plugin-auto-uuid",
   "homepage": "https://github.com/amperio-com/datocms-plugin-auto-uuid",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Generates UUID",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "docs"
   ],
   "author": "Amperio sp. z o.o",
-  "license": "ISC",
+  "license": "MIT",
   "datoCmsPlugin": {
     "title": "Datocms Plugin Auto UUID",
     "previewImage": "docs/preview.gif",
@@ -75,7 +75,7 @@
     "serve": "^10.0.2",
     "style-loader": "^0.23.0",
     "webpack": "^4.16.1",
-    "webpack-cli": "^3.1.0",
+    "webpack-cli": "^4.9.1",
     "webpack-dev-server": "^3.1.10",
     "yo": "^3.1.1"
   },
